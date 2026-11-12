@@ -7,6 +7,7 @@ int main(void)
 	//saying what the mile value is and multiplying it to get kilometers.
 	float miles = 45.66;
 	printf("%f miles in kilometers is %f",miles,MILE_TO_KILOMETER);
+	return 0
 }
 
 
